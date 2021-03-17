@@ -40,6 +40,11 @@ body > div {
   text-decoration: none;
 }
 
+header a:hover {
+	background: #67319d;
+	color: #2a1d3e;
+}
+
 .header span {
   background: var(--theme-color);
   color: #000;
