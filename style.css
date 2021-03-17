@@ -20,6 +20,7 @@ body > div {
   margin: 10px auto;
   /*border: 1px solid #fff4;*/
   background: #181818;
+	border-radius: 5px;
   width: min(100vw, 900px);
   padding: 10px;
 }
@@ -29,6 +30,7 @@ body > div {
   justify-content: space;
   padding: 0;
   border: none;
+	overflow: clip;
 	background: #2a1d3e;
 }
 
